@@ -1,0 +1,31 @@
+h1{
+    color:rgb(20, 20, 20);
+    text-align: center;
+    text-decoration: underline;
+    background-color: #fd07d8;
+    padding:4px;
+}
+.tube{
+    margin-top:3rem;
+    border: 5px solid #fd07d8;
+    box-sizing:border-box;
+    border-radius:30px;
+    padding-bottom: 15rem;
+    /* width:50%; */
+    
+}
+p{
+    line-height:2rem;
+    margin:1rem;
+    text-align:center;
+
+}
+a:visited{
+    color:rgb(234, 0, 255)
+}
+a:hover,a:focus{
+    color:rgb(27, 16, 239)
+}
+a:active{
+    color:rgb(252, 9, 9)
+}
